@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.u2net/
+*.onnx
+.temp_video*
+*.log
+.idea/
+.vscode/
